@@ -1,5 +1,3 @@
-% Copyright (C) Andrea Vedaldi and Andrew Zisserman
-%
 % The purpose of this exercise is to observe different building-blocks of
 % Convolutional Neural Networks (CNN), and use Stochastic Gradient Descent 
 % (SGD) to train a CNN.
